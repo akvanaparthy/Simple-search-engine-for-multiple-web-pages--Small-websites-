@@ -1,0 +1,10 @@
+"https://www.programiz.com/dsa",
+"https://www.programiz.com/dsa/data-structure-types",
+"https://www.programiz.com/dsa/linked-list",
+"https://www.programiz.com/dsa/stack",
+"https://www.programiz.com/dsa/queue",
+"https://www.programiz.com/dsa/trees",
+"https://www.programiz.com/dsa/graph",
+"https://www.programiz.com/dsa/heap-data-structure",
+"https://www.programiz.com/dsa/deque",
+"https://www.programiz.com/dsa/getting-started"

@@ -1,0 +1,26 @@
+Project - Search Engine\src\main.py' 
+  - https://www.programiz.com/dsa: TF-IDF: 0.0000 (Count: 21 time(s))
+  - https://www.programiz.com/dsa/data-structure-types: TF-IDF: 0.0000 (Count: 81 time(s))
+  - https://www.programiz.com/dsa/linked-list: TF-IDF: 0.0000 (Count: 18 time(s))
+  - https://www.programiz.com/dsa/stack: TF-IDF: 0.0000 (Count: 14 time(s))
+  - https://www.programiz.com/dsa/queue: TF-IDF: 0.0000 (Count: 17 time(s))
+  - https://www.programiz.com/dsa/trees: TF-IDF: 0.0000 (Count: 18 time(s))
+  - https://www.programiz.com/dsa/graph: TF-IDF: 0.0000 (Count: 14 time(s))
+  - https://www.programiz.com/dsa/heap-data-structure: TF-IDF: 0.0000 (Count: 15 time(s)) 
+  - https://www.programiz.com/dsa/deque: TF-IDF: 0.0000 (Count: 11 time(s))
+  - https://www.programiz.com/dsa/getting-started: TF-IDF: 0.0000 (Count: 18 time(s))     
+
+The term 'stack' is found in the following pages (Ranked by TF-IDF):
+  - https://www.programiz.com/dsa/stack: TF-IDF: 41.8877 (Count: 82 time(s))
+  - https://www.programiz.com/dsa/data-structure-types: TF-IDF: 4.0866 (Count: 8 time(s)) 
+  - https://www.programiz.com/dsa: TF-IDF: 0.5108 (Count: 1 time(s))
+  - https://www.programiz.com/dsa/linked-list: TF-IDF: 0.5108 (Count: 1 time(s))
+  - https://www.programiz.com/dsa/queue: TF-IDF: 0.5108 (Count: 1 time(s))
+  - https://www.programiz.com/dsa/trees: TF-IDF: 0.5108 (Count: 1 time(s))
+
+The term 'graph' is found in the following pages (Ranked by TF-IDF):
+  - https://www.programiz.com/dsa/graph: TF-IDF: 31.3033 (Count: 26 time(s))
+  - https://www.programiz.com/dsa/data-structure-types: TF-IDF: 10.8358 (Count: 9 time(s))
+  - https://www.programiz.com/dsa: TF-IDF: 2.4079 (Count: 2 time(s))
+
+The term 'nonexistent' was not found in any pages.
